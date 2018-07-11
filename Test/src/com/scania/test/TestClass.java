@@ -4,6 +4,6 @@ public class TestClass {
 	public void myfunction(){
 		
 		
-		System.out.println("hello github world ");
+		System.out.println("hello github world");
 	}
 }
